@@ -4,7 +4,7 @@ import re
 from bs4 import BeautifulSoup
 from requests import get
 
-from yandex_geocoder import Client
+from yandex_geocoder import Client, YandexGeocoderException
 
 
 client = Client("319343c0-2efc-4ada-b206-7e98ff41dd8e")
@@ -43,8 +43,12 @@ def search_in_page(page):
             # dict_kv_vt['details'] = house_container.find_all('div', class_="catalog-item__headline")[0].text.replace("  ", '')
             # dict_kv_vt['rooms'] = int(dict_kv_vt['details'][0])
             address = house_container.find_all('div', class_="catalog-item__address")[0].text
+            print(address)
+            # try:
             decimal_coord = client.coordinates(address)
             coordinates = [float(decimal_coord[0]), float(decimal_coord[1])]
+            # except YandexGeocoderException:
+            #     continue
             # dict_kv_vt['properties']['balloonContent'] = int(house_container.find_all('div', class_="catalog-item__price catalog-item__price-with-icon")[
             #                 0].text.replace(" ", ''))
             # dict_kv_vt['district'] = house_container.find_all('div', class_="catalog-item__district")[0].text
@@ -56,6 +60,7 @@ def search_in_page(page):
             dict_kv_vt['id'] = id
             dict_kv_vt['geometry']['coordinates'] = coordinates
             LIST_KV_VT['features'].append(dict_kv_vt)
+            print(id, coordinates)
 
         except IndexError:
             continue
@@ -65,7 +70,7 @@ def search_in_page(page):
 
 
 def search_all_kv_vt():
-    for i in range(1, 2):
+    for i in range(4, 5):
         search_in_page(i)
     # return LIST_KV_VT
 
@@ -77,14 +82,4 @@ def write_all_kv_vr_to_json():
 
 # search_all_kv_vt()
 # write_all_kv_vr_to_json()
-
-#
-# for i in LIST_KV_VT:
-#     print(i['latitude'], i['longitude'])
-
-
-
-
-# patients_df = pd.read_json('files/kvvr.json')
-# patients_df.head()
 
