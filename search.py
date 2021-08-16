@@ -7,7 +7,7 @@ from requests import get
 from yandex_geocoder import Client, YandexGeocoderException
 
 
-client = Client("319343c0-2efc-4ada-b206-7e98ff41dd8e")
+client = Client("ВАШ IP ключ")
 
 headers = ({'User-Agent':
                 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'})
