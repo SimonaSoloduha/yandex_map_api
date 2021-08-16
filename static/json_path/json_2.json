@@ -1,0 +1,729 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 3740817,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.994391,
+                    30.25675
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3740817/'</a></b></font>",
+                "balloonContentBody": [
+                    "17.25 \u0436\u0438\u043b\u0430\u044f",
+                    "22.31 \u043a\u0443\u0445\u043d\u044f",
+                    "8/11 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u043e-\u041c\u043e\u043d\u043e\u043b\u0438\u0442\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 10600000, \u041c\u0435\u0442\u0440\u043e: \u0421\u0442\u0430\u0440\u0430\u044f \u0414\u0435\u0440\u0435\u0432\u043d\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3574002,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.906079,
+                    30.324142
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3574002/'</a></b></font>",
+                "balloonContentBody": [
+                    "48.08 \u0436\u0438\u043b\u0430\u044f",
+                    "18.41 \u043a\u0443\u0445\u043d\u044f",
+                    "2.80 \u043f\u043e\u0442\u043e\u043b\u043e\u043a",
+                    "3/14 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u043e-\u041c\u043e\u043d\u043e\u043b\u0438\u0442\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 18590000, \u041c\u0435\u0442\u0440\u043e: \u0424\u0440\u0443\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3728599,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.075586,
+                    30.343491
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3728599/'</a></b></font>",
+                "balloonContentBody": [
+                    "30.80 \u0436\u0438\u043b\u0430\u044f",
+                    "11.40 \u043a\u0443\u0445\u043d\u044f",
+                    "2.70 \u043f\u043e\u0442\u043e\u043b\u043e\u043a",
+                    "3/28 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u043e-\u041c\u043e\u043d\u043e\u043b\u0438\u0442\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 8950000, \u041c\u0435\u0442\u0440\u043e: \u041f\u0430\u0440\u043d\u0430\u0441"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3728477,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.063276,
+                    30.460129
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3728477/'</a></b></font>",
+                "balloonContentBody": [
+                    "43.95 \u0436\u0438\u043b\u0430\u044f",
+                    "7.55 \u043a\u0443\u0445\u043d\u044f",
+                    "2.85 \u043f\u043e\u0442\u043e\u043b\u043e\u043a",
+                    "11/16 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u043e-\u041c\u043e\u043d\u043e\u043b\u0438\u0442\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 6100000, \u041c\u0435\u0442\u0440\u043e: \u0414\u0435\u0432\u044f\u0442\u043a\u0438\u043d\u043e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3742851,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.009521,
+                    29.721417
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3742851/'</a></b></font>",
+                "balloonContentBody": [
+                    "40.20 \u0436\u0438\u043b\u0430\u044f",
+                    "6.60 \u043a\u0443\u0445\u043d\u044f",
+                    "9/14 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 6200000, \u041c\u0435\u0442\u0440\u043e: \u0427\u0435\u0440\u043d\u0430\u044f \u0440\u0435\u0447\u043a\u0430"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3742898,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.000164,
+                    30.251971
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3742898/'</a></b></font>",
+                "balloonContentBody": [
+                    "18.00 \u0436\u0438\u043b\u0430\u044f",
+                    "10.00 \u043a\u0443\u0445\u043d\u044f",
+                    "4/7 \u044d\u0442\u0430\u0436",
+                    "\u041f\u0430\u043d\u0435\u043b\u044c\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 7000000, \u041c\u0435\u0442\u0440\u043e: \u041a\u043e\u043c\u0435\u043d\u0434\u0430\u043d\u0442\u0441\u043a\u0438\u0439  \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3742899,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.545321,
+                    30.867793
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3742899/'</a></b></font>",
+                "balloonContentBody": [
+                    "29.00 \u0436\u0438\u043b\u0430\u044f",
+                    "8.00 \u043a\u0443\u0445\u043d\u044f",
+                    "4/5 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u0432\u0441\u0442\u0440\u0435\u0447\u043d\u0430\u044f \u043f\u043e\u043a\u0443\u043f\u043a\u0430 \u0426\u0435\u043d\u0430: 4600000, \u041c\u0435\u0442\u0440\u043e: \u0417\u0432\u0435\u0437\u0434\u043d\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3742900,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.853166,
+                    30.46736
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3742900/'</a></b></font>",
+                "balloonContentBody": [
+                    "31.40 \u0436\u0438\u043b\u0430\u044f",
+                    "6.90 \u043a\u0443\u0445\u043d\u044f",
+                    "5/5 \u044d\u0442\u0430\u0436",
+                    "\u041f\u0430\u043d\u0435\u043b\u044c\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 5450000, \u041c\u0435\u0442\u0440\u043e: \u041e\u0431\u0443\u0445\u043e\u0432\u043e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3742902,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.028204,
+                    30.29933
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3742902/'</a></b></font>",
+                "balloonContentBody": [
+                    "40.60 \u0436\u0438\u043b\u0430\u044f",
+                    "10.50 \u043a\u0443\u0445\u043d\u044f",
+                    "4/16 \u044d\u0442\u0430\u0436",
+                    "\u041f\u0430\u043d\u0435\u043b\u044c\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 12100000, \u041c\u0435\u0442\u0440\u043e: \u041e\u0437\u0435\u0440\u043a\u0438"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3742903,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.542538,
+                    30.864847
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3742903/'</a></b></font>",
+                "balloonContentBody": [
+                    "47.00 \u0436\u0438\u043b\u0430\u044f",
+                    "8.40 \u043a\u0443\u0445\u043d\u044f",
+                    "5/5 \u044d\u0442\u0430\u0436",
+                    "\u0411\u043b\u043e\u0447\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 6650000, \u041c\u0435\u0442\u0440\u043e: \u0417\u0432\u0435\u0437\u0434\u043d\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3743519,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.845939,
+                    30.363712
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3743519/'</a></b></font>",
+                "balloonContentBody": [
+                    "16.90 \u0436\u0438\u043b\u0430\u044f",
+                    "5.60 \u043a\u0443\u0445\u043d\u044f",
+                    "2.54 \u043f\u043e\u0442\u043e\u043b\u043e\u043a",
+                    "3/5 \u044d\u0442\u0430\u0436",
+                    "\u0411\u0440\u0435\u0436\u043d\u0435\u0432\u043a\u0430"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 5600000, \u041c\u0435\u0442\u0440\u043e: \u0417\u0432\u0435\u0437\u0434\u043d\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3706518,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.832168,
+                    30.354469
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3706518/'</a></b></font>",
+                "balloonContentBody": [
+                    "32.00 \u0436\u0438\u043b\u0430\u044f",
+                    "10.00 \u043a\u0443\u0445\u043d\u044f",
+                    "8/16 \u044d\u0442\u0430\u0436",
+                    "\u041f\u0430\u043d\u0435\u043b\u044c\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 12000000, \u041c\u0435\u0442\u0440\u043e: \u0417\u0432\u0435\u0437\u0434\u043d\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3743520,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.005122,
+                    30.23166
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3743520/'</a></b></font>",
+                "balloonContentBody": [
+                    "13.50 \u0436\u0438\u043b\u0430\u044f",
+                    "11.80 \u043a\u0443\u0445\u043d\u044f",
+                    "2.70 \u043f\u043e\u0442\u043e\u043b\u043e\u043a",
+                    "9/12 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u043e-\u041c\u043e\u043d\u043e\u043b\u0438\u0442\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 7990000, \u041c\u0435\u0442\u0440\u043e: \u041a\u043e\u043c\u0435\u043d\u0434\u0430\u043d\u0442\u0441\u043a\u0438\u0439  \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3713120,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.943931,
+                    30.325363
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3713120/'</a></b></font>",
+                "balloonContentBody": [
+                    "20.00 \u0436\u0438\u043b\u0430\u044f",
+                    "9.00 \u043a\u0443\u0445\u043d\u044f",
+                    "2/3 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 15000000, \u041c\u0435\u0442\u0440\u043e: \u041d\u0435\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3743718,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.829061,
+                    30.512437
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3743718/'</a></b></font>",
+                "balloonContentBody": [
+                    "20.00 \u0436\u0438\u043b\u0430\u044f",
+                    "6.50 \u043a\u0443\u0445\u043d\u044f",
+                    "1/4 \u044d\u0442\u0430\u0436",
+                    "\u0421\u0442\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 5350000, \u041c\u0435\u0442\u0440\u043e: \u0420\u044b\u0431\u0430\u0446\u043a\u043e\u0435"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3744098,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.015714,
+                    30.253516
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3744098/'</a></b></font>",
+                "balloonContentBody": [
+                    "43.10 \u0436\u0438\u043b\u0430\u044f",
+                    "7.30 \u043a\u0443\u0445\u043d\u044f",
+                    "9/9 \u044d\u0442\u0430\u0436",
+                    "\u041f\u0430\u043d\u0435\u043b\u044c\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 9700000, \u041c\u0435\u0442\u0440\u043e: \u041a\u043e\u043c\u0435\u043d\u0434\u0430\u043d\u0442\u0441\u043a\u0438\u0439  \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 714851,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.310547,
+                    77.004008
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru#'</a></b></font>",
+                "balloonContentBody": [
+                    "54.00 \u0436\u0438\u043b\u0430\u044f",
+                    "11.30 \u043a\u0443\u0445\u043d\u044f",
+                    "3.30 \u043f\u043e\u0442\u043e\u043b\u043e\u043a",
+                    "6/6 \u044d\u0442\u0430\u0436",
+                    "\u0421\u0442.\u0424\u043e\u043d\u0434 \u041a\u0430\u043f.\u0420\u0435\u043c."
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u0432\u0441\u0442\u0440\u0435\u0447\u043d\u0430\u044f \u043f\u043e\u043a\u0443\u043f\u043a\u0430 \u0426\u0435\u043d\u0430: 15500000, \u041c\u0435\u0442\u0440\u043e: \u0412\u0430\u0441\u0438\u043b\u0435\u043e\u0441\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3741611,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.910293,
+                    30.307801
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3741611/'</a></b></font>",
+                "balloonContentBody": [
+                    "75.90 \u0436\u0438\u043b\u0430\u044f",
+                    "8.70 \u043a\u0443\u0445\u043d\u044f",
+                    "3.15 \u043f\u043e\u0442\u043e\u043b\u043e\u043a",
+                    "3/3 \u044d\u0442\u0430\u0436",
+                    "\u0421\u0442.\u0424\u043e\u043d\u0434 \u041a\u0430\u043f.\u0420\u0435\u043c."
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u0432\u0441\u0442\u0440\u0435\u0447\u043d\u0430\u044f \u043f\u043e\u043a\u0443\u043f\u043a\u0430 \u0426\u0435\u043d\u0430: 11900000, \u041c\u0435\u0442\u0440\u043e: \u0411\u0430\u043b\u0442\u0438\u0439\u0441\u043a\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3676331,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.826298,
+                    30.207172
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3676331/'</a></b></font>",
+                "balloonContentBody": [
+                    "27.00 \u0436\u0438\u043b\u0430\u044f",
+                    "6.00 \u043a\u0443\u0445\u043d\u044f",
+                    "2.65 \u043f\u043e\u0442\u043e\u043b\u043e\u043a",
+                    "7/9 \u044d\u0442\u0430\u0436",
+                    "\u041f\u0430\u043d\u0435\u043b\u044c\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u0432\u0441\u0442\u0440\u0435\u0447\u043d\u0430\u044f \u043f\u043e\u043a\u0443\u043f\u043a\u0430 \u0426\u0435\u043d\u0430: 6000000, \u041c\u0435\u0442\u0440\u043e: \u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0412\u0435\u0442\u0435\u0440\u0430\u043d\u043e\u0432"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3742696,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.827523,
+                    30.386763
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3742696/'</a></b></font>",
+                "balloonContentBody": [
+                    "17.60 \u0436\u0438\u043b\u0430\u044f",
+                    "7.20 \u043a\u0443\u0445\u043d\u044f",
+                    "2.70 \u043f\u043e\u0442\u043e\u043b\u043e\u043a",
+                    "12/14 \u044d\u0442\u0430\u0436",
+                    "\u041c\u043e\u043d\u043e\u043b\u0438\u0442\u043d\u043e-\u043f\u0430\u043d\u0435\u043b\u044c\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 6100000, \u041c\u0435\u0442\u0440\u043e: \u041a\u0443\u043f\u0447\u0438\u043d\u043e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3744127,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.021825,
+                    30.282271
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3744127/'</a></b></font>",
+                "balloonContentBody": [
+                    "16.00 \u0436\u0438\u043b\u0430\u044f",
+                    "8.50 \u043a\u0443\u0445\u043d\u044f",
+                    "2.60 \u043f\u043e\u0442\u043e\u043b\u043e\u043a",
+                    "6/10 \u044d\u0442\u0430\u0436",
+                    "\u041f\u0430\u043d\u0435\u043b\u044c\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 5250000, \u041c\u0435\u0442\u0440\u043e: \u041f\u0438\u043e\u043d\u0435\u0440\u0441\u043a\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3733610,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.740321,
+                    30.470324
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3733610/'</a></b></font>",
+                "balloonContentBody": [
+                    "16.00 \u0436\u0438\u043b\u0430\u044f",
+                    "8.80 \u043a\u0443\u0445\u043d\u044f",
+                    "9/9 \u044d\u0442\u0430\u0436",
+                    "\u041f\u0430\u043d\u0435\u043b\u044c\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 4900000, \u041c\u0435\u0442\u0440\u043e: \u0428\u0443\u0448\u0430\u0440\u044b"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3736077,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.99818,
+                    30.217988
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3736077/'</a></b></font>",
+                "balloonContentBody": [
+                    "21.20 \u0436\u0438\u043b\u0430\u044f",
+                    "15.70 \u043a\u0443\u0445\u043d\u044f",
+                    "17/22 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u043e-\u041c\u043e\u043d\u043e\u043b\u0438\u0442\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 15000000, \u041c\u0435\u0442\u0440\u043e: \u0411\u0435\u0433\u043e\u0432\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3734566,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.060191,
+                    30.30852
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3734566/'</a></b></font>",
+                "balloonContentBody": [
+                    "35.00 \u0436\u0438\u043b\u0430\u044f",
+                    "10.00 \u043a\u0443\u0445\u043d\u044f",
+                    "6/16 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 10500000, \u041c\u0435\u0442\u0440\u043e: \u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041f\u0440\u043e\u0441\u0432\u0435\u0449\u0435\u043d\u0438\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3734076,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.866739,
+                    30.461395
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3734076/'</a></b></font>",
+                "balloonContentBody": [
+                    "30.00 \u0436\u0438\u043b\u0430\u044f",
+                    "7.00 \u043a\u0443\u0445\u043d\u044f",
+                    "2/5 \u044d\u0442\u0430\u0436",
+                    "\u041f\u0430\u043d\u0435\u043b\u044c\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 6550000, \u041c\u0435\u0442\u0440\u043e: \u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3707255,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.037657,
+                    30.121446
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/detail/flats/3707255/'</a></b></font>",
+                "balloonContentBody": [
+                    "30.30 \u0436\u0438\u043b\u0430\u044f",
+                    "6.60 \u043a\u0443\u0445\u043d\u044f",
+                    "2.50 \u043f\u043e\u0442\u043e\u043b\u043e\u043a",
+                    "5/5 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u0432\u0441\u0442\u0440\u0435\u0447\u043d\u0430\u044f \u043f\u043e\u043a\u0443\u043f\u043a\u0430 \u0426\u0435\u043d\u0430: 2620000, \u041c\u0435\u0442\u0440\u043e: \u0414\u0435\u0432\u044f\u0442\u043a\u0438\u043d\u043e"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3725056,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.874454,
+                    30.439854
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/agent/380869/'</a></b></font>",
+                "balloonContentBody": [
+                    "59.00 \u0436\u0438\u043b\u0430\u044f",
+                    "15.00 \u043a\u0443\u0445\u043d\u044f",
+                    "2/6 \u044d\u0442\u0430\u0436",
+                    "\u0421\u0442\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 14900000, \u041c\u0435\u0442\u0440\u043e: \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0441\u043a\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3726170,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.039193,
+                    30.216416
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/agent/381167/'</a></b></font>",
+                "balloonContentBody": [
+                    "14.00 \u0436\u0438\u043b\u0430\u044f",
+                    "10.00 \u043a\u0443\u0445\u043d\u044f",
+                    "16/25 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u043e-\u041c\u043e\u043d\u043e\u043b\u0438\u0442\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 5800000, \u041c\u0435\u0442\u0440\u043e: \u041a\u043e\u043c\u0435\u043d\u0434\u0430\u043d\u0442\u0441\u043a\u0438\u0439  \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3717216,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.882984,
+                    30.429631
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/agent/381167/'</a></b></font>",
+                "balloonContentBody": [
+                    "16.00 \u0436\u0438\u043b\u0430\u044f",
+                    "10.00 \u043a\u0443\u0445\u043d\u044f",
+                    "3/14 \u044d\u0442\u0430\u0436",
+                    "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u043e-\u041c\u043e\u043d\u043e\u043b\u0438\u0442\u043d\u044b\u0439"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 7060000, \u041c\u0435\u0442\u0440\u043e: \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0441\u043a\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3731237,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.928834,
+                    30.260523
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/agent/381167/'</a></b></font>",
+                "balloonContentBody": [
+                    "18.00 \u0436\u0438\u043b\u0430\u044f",
+                    "10.00 \u043a\u0443\u0445\u043d\u044f",
+                    "8/10 \u044d\u0442\u0430\u0436",
+                    "\u041c\u043e\u043d\u043e\u043b\u0438\u0442"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 9900000, \u041c\u0435\u0442\u0440\u043e: \u0412\u0430\u0441\u0438\u043b\u0435\u043e\u0441\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3651519,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.943674,
+                    30.696906
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "<a target='_blank' href='https://www.bn.ru/agent/380869/'</a></b></font>",
+                "balloonContentBody": [
+                    "11.00 \u0436\u0438\u043b\u0430\u044f",
+                    "41.00 \u043a\u0443\u0445\u043d\u044f",
+                    "2/2 \u044d\u0442\u0430\u0436",
+                    "\u041a\u043e\u0442\u0442\u0435\u0434\u0436"
+                ],
+                "balloonContentFooter": "",
+                "clusterCaption": "",
+                "hintContent": "\u043f\u0440\u044f\u043c\u0430\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0426\u0435\u043d\u0430: 8200000, \u041c\u0435\u0442\u0440\u043e: \u041b\u0430\u0434\u043e\u0436\u0441\u043a\u0430\u044f"
+            }
+        }
+    ]
+}

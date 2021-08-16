@@ -32,35 +32,33 @@ def search_in_page(page):
                           "type": "Point",
                           "coordinates": []},
                       "properties": {
-                          "balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>",
-                          "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>",
-                          "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>",
-                          "clusterCaption": "<strong><s>Еще</s> одна</strong> метка",
-                          "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}}
+                          "balloonContentHeader": "",
+                          "balloonContentBody": "",
+                          "balloonContentFooter": "",
+                          "clusterCaption": "",
+                          "hintContent": ""}}
         try:
             id = int(house_container.find_all('div', class_="catalog-item__id")[0].text[2:])
-            # dict_kv_vt['url'] = 'https://www.bn.ru' + house_container.find_all('a')[2]['href']
-            # dict_kv_vt['details'] = house_container.find_all('div', class_="catalog-item__headline")[0].text.replace("  ", '')
-            # dict_kv_vt['rooms'] = int(dict_kv_vt['details'][0])
+            url = 'https://www.bn.ru' + house_container.find_all('a')[2]['href']
+            details = house_container.find_all('div', class_="catalog-item__headline")[0].text.replace("  ", '')
+            rooms = int(details[0])
             address = house_container.find_all('div', class_="catalog-item__address")[0].text
-            print(address)
-            # try:
             decimal_coord = client.coordinates(address)
-            coordinates = [float(decimal_coord[0]), float(decimal_coord[1])]
-            # except YandexGeocoderException:
-            #     continue
-            # dict_kv_vt['properties']['balloonContent'] = int(house_container.find_all('div', class_="catalog-item__price catalog-item__price-with-icon")[
-            #                 0].text.replace(" ", ''))
-            # dict_kv_vt['district'] = house_container.find_all('div', class_="catalog-item__district")[0].text
-            # dict_kv_vt['type_of_sale'] = house_container.find_all('div', class_="catalog-item__sub-headline")[0].text
-            # description_data = house_container.find_all('span', class_="catalog-item__param")
-            # dict_kv_vt['description'] = list(' '.join(v.text.split()) for v in description_data)
-            # dict_kv_vt['metro_name'] = house_container.find_all('span', class_="catalog-item__metro-name")[0].text.replace('\xa0', '')
-            # LIST_KV_VT['features'].append(dict_kv_vt)
+            coordinates = [float(decimal_coord[1]), float(decimal_coord[0])]
+
+            price = int(house_container.find_all('div', class_="catalog-item__price catalog-item__price-with-icon")[
+                            0].text.replace(" ", ''))
+            district = house_container.find_all('div', class_="catalog-item__district")[0].text
+            type_of_sale = house_container.find_all('div', class_="catalog-item__sub-headline")[0].text
+            description_data = house_container.find_all('span', class_="catalog-item__param")
+            description = list(' '.join(v.text.split()) for v in description_data)
+            metro_name = house_container.find_all('span', class_="catalog-item__metro-name")[0].text.replace('\xa0', '')
             dict_kv_vt['id'] = id
             dict_kv_vt['geometry']['coordinates'] = coordinates
+            dict_kv_vt['properties']['balloonContentHeader'] = f"<a target='_blank' href='{url}'</a></b></font>"
+            dict_kv_vt['properties']['balloonContentBody'] = description
+            dict_kv_vt['properties']['hintContent'] = f'{type_of_sale} Цена: {price}, Метро: {metro_name}'
             LIST_KV_VT['features'].append(dict_kv_vt)
-            print(id, coordinates)
 
         except IndexError:
             continue
@@ -76,10 +74,8 @@ def search_all_kv_vt():
 
 
 def write_all_kv_vr_to_json():
-    with open('static/json_path/new_json_content.json', 'w', encoding='utf-8') as f:
+    with open('static/json_path/json_2.json', 'w', encoding='utf-8') as f:
         json.dump(LIST_KV_VT, f, indent=4)
 
 
-# search_all_kv_vt()
-# write_all_kv_vr_to_json()
 
