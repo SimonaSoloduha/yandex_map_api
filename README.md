@@ -33,7 +33,7 @@ pip3 install -r requirements.txt
 
 Добавьте в код свой ключ (в файл search.py (10-я строка) и в файл /templates/index.html (10-я строка)
 
-Запустите проект через конлось 
+Запустите проект через консоль 
 
 python3 app.py runserver 
 
